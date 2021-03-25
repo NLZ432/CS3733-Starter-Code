@@ -27,4 +27,8 @@ public class Main {
   public void nestorsFunction() {
     System.out.println("Branch - Nestor");
   }
+
+  public void bryanFunction() {
+    System.out.println("Branch - Bryan's_Branch");
+  }
 }
