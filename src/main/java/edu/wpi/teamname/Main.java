@@ -17,4 +17,8 @@ public class Main {
     System.out.println("Alex");
     System.out.println("Nestor");
   }
+
+  public void nestorsFunction() {
+    System.out.println("Branch - Nestor");
+  }
 }
