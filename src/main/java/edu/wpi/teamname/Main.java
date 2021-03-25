@@ -33,6 +33,10 @@ public class Main {
     System.out.println("Branch - Ivan Klevanski");
   }
 
+  public void ian() {
+    System.out.println("Branch - Ian");
+  }
+
   public void bryanFunction() {
     System.out.println("Branch - Bryan's_Branch");
   }
