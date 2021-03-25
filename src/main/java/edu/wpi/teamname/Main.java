@@ -23,4 +23,8 @@ public class Main {
     System.out.println("Nestor");
     System.out.println("Ivan Klevanski");
   }
+
+  public void nestorsFunction() {
+    System.out.println("Branch - Nestor");
+  }
 }
