@@ -32,4 +32,8 @@ public class Main {
   public static void PrintBranch_IK(){
     System.out.println("Branch - Ivan Klevanski");
   }
+
+  public void bryanFunction() {
+    System.out.println("Branch - Bryan's_Branch");
+  }
 }
