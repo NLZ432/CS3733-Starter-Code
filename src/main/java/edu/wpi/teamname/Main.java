@@ -22,6 +22,7 @@ public class Main {
     System.out.println("Alex");
     System.out.println("Nestor");
     System.out.println("Ivan Klevanski");
+    System.out.println("Romish Khatri");
   }
 
   public void nestorsFunction() {
