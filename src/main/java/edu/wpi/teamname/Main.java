@@ -20,4 +20,7 @@ public class Main {
     System.out.println("Ivan Klevanski");
   }
 
+  public static void ian(){
+    System.out.println("Branch - Ian Khung");
+  }
 }
