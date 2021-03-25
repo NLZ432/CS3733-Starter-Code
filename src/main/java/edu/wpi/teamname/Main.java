@@ -2,6 +2,7 @@ package edu.wpi.teamname;
 
 public class Main {
 
+
   public static void main(String[] args) {
     /* Normally, you would want to launch your app,
     which will invoke the init method and start method in
@@ -15,6 +16,5 @@ public class Main {
     System.out.println("Team Coach: Michael Clements");
     System.out.println("Alex");
 
-    System.out.println("Branch - Alex");
   }
 }
