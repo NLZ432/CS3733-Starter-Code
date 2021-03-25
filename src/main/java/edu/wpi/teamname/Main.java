@@ -2,6 +2,10 @@ package edu.wpi.teamname;
 
 public class Main {
 
+  private static void printAlex() {
+    System.out.println("Branch - Alex");
+  }
+
   public static void main(String[] args) {
     /* Normally, you would want to launch your app,
     which will invoke the init method and start method in
@@ -32,5 +36,9 @@ public class Main {
 
   public void ian() {
     System.out.println("Branch - Ian");
+  }
+
+  public void bryanFunction() {
+    System.out.println("Branch - Bryan's_Branch");
   }
 }
