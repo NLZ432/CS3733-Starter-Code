@@ -22,10 +22,17 @@ public class Main {
     System.out.println("Alex");
     System.out.println("Nestor");
     System.out.println("Ivan Klevanski");
-    System.out.println("Michael's Branch added this!");
   }
 
   public void nestorsFunction() {
     System.out.println("Branch - Nestor");
+  }
+
+  public static void PrintBranch_IK(){
+    System.out.println("Branch - Ivan Klevanski");
+  }
+
+  public void ian() {
+    System.out.println("Branch - Ian");
   }
 }
