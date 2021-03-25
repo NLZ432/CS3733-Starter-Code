@@ -25,6 +25,10 @@ public class Main {
     System.out.println("Branch - Nestor");
   }
 
+  public void alexFunction() {
+    System.out.println("Branch - Alex");
+  }
+
   public static void PrintBranch_IK(){
     System.out.println("Branch - Ivan Klevanski");
   }
