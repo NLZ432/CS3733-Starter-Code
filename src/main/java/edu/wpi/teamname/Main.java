@@ -14,6 +14,7 @@ public class Main {
     System.out.println("Michael Emerson");
     System.out.println("Ian Khung");
     System.out.println("Team Coach: Michael Clements");
+    System.out.println("Bryan Gass");
     System.out.println("Alex");
     System.out.println("Nestor");
     System.out.println("Ivan Klevanski");
