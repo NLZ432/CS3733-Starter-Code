@@ -2,6 +2,9 @@ package edu.wpi.teamname;
 
 public class Main {
 
+  private static void printAlex() {
+    System.out.println("Branch - Alex");
+  }
 
   public static void main(String[] args) {
     /* Normally, you would want to launch your app,
@@ -15,6 +18,5 @@ public class Main {
     System.out.println("Michael Emerson");
     System.out.println("Team Coach: Michael Clements");
     System.out.println("Alex");
-
   }
 }
