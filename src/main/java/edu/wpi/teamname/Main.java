@@ -27,7 +27,7 @@ public class Main {
   }
 
   public void alexFunction() {
-    System.out.println("Branch - Alex");
+    System.out.println("Branch - Alex Kinley");
   }
 
   public static void PrintBranch_IK(){
