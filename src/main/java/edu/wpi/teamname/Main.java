@@ -2,10 +2,6 @@ package edu.wpi.teamname;
 
 public class Main {
 
-  private static void printAlex() {
-    System.out.println("Branch - Alex");
-  }
-
   public static void main(String[] args) {
     /* Normally, you would want to launch your app,
     which will invoke the init method and start method in
@@ -22,6 +18,8 @@ public class Main {
     System.out.println("Alex");
     System.out.println("Nestor");
     System.out.println("Ivan Klevanski");
+    System.out.println("Anthony LoPresti");
+    System.out.println("Jacob Feiss");
   }
 
   public void nestorsFunction() {
